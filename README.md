@@ -3,7 +3,7 @@
 ![Olympics 2024 Project_page-0001](https://github.com/user-attachments/assets/aa652938-9473-4fe3-a3db-8b5290ebc49f)
 
 This project is designed to provide an interactive and comprehensive view of the Paris 2024 Olympics, making it accessible for both casual viewers and sports analysts.
-The Paris 2024 Olympics project offers a detailed exploration of the event through five dashboards, each focusing on different aspects of the Games,you can download dataset for this project from [Here]([https://docs.google.com/spreadsheets/d/16vpAXXTiHRj1WZgilGsNyX_jpvf3xx63/edit?usp=sharing&ouid=105386622502646294985&rtpof=true&sd=true](https://drive.google.com/drive/folders/10VqjLmXXMHGh_3-zpjp-WD8iKrSxMqqO))
+The Paris 2024 Olympics project offers a detailed exploration of the event through five dashboards, each focusing on different aspects of the Games,you can download dataset for this project from [Here](https://drive.google.com/drive/folders/10VqjLmXXMHGh_3-zpjp-WD8iKrSxMqqO))
 :
 
 
