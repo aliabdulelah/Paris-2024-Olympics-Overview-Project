@@ -8,8 +8,12 @@ The Paris 2024 Olympics project offers a detailed exploration of the event throu
 
 🎨 Color Palette Used:
 
-Bright Blue: #00C5FF
-Light Mint: #E6F4F1
+### Sky blue:    #118DFF
+### Blue:        #118DFF
+### Gray:        #CCCCCC
+### Pastel red   #A1343C
+
+
 
 ### Home Page: Provides an engaging introduction to the Olympics, highlighting key statistics and offering easy navigation to other sections.
 
